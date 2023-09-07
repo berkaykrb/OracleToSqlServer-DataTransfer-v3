@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1231
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dataIntegration", "dataIntegration\dataIntegration.csproj", "{55DFFDD3-DE08-4555-B138-F7FC77C82BBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55DFFDD3-DE08-4555-B138-F7FC77C82BBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55DFFDD3-DE08-4555-B138-F7FC77C82BBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55DFFDD3-DE08-4555-B138-F7FC77C82BBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55DFFDD3-DE08-4555-B138-F7FC77C82BBF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47800C8F-5409-448C-B7A9-9C3D5490F15E}
+	EndGlobalSection
+EndGlobal
